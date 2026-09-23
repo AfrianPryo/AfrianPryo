@@ -2,12 +2,12 @@
 
 <!-- ================= BANNER ================= -->
 <!-- Ganti src di bawah dengan gambar banner tema NERV / Rei Ayanami milikmu -->
-<img src="Assets/bannerMain.jpg" width="100%" alt="Banner NEON GENESIS EVANGELION"/>
+<img src="bannerMain.jpg" width="100%" alt="Banner NEON GENESIS EVANGELION"/>
 
 </div>
 
 <div align="center">
- 
+
 ![Stars](https://img.shields.io/badge/STARS-XX-0a84ff?style=for-the-badge&labelColor=000000)
 ![Forks](https://img.shields.io/badge/FORKS-X-0a84ff?style=for-the-badge&labelColor=000000)
 ![Followers](https://img.shields.io/badge/FOLLOWERS-XX-0a84ff?style=for-the-badge&labelColor=000000)
@@ -39,13 +39,32 @@
 </td>
 <td width="65%" valign="top">
 
+<table>
+<tr>
+<td width="35%" valign="middle" align="center">
+
+<!-- ====== GAMBAR SIMBOL (mis. plug suit / lambang Unit-00) ====== -->
+<!-- Ganti dengan gambar bertema Rei Ayanami milikmu -->
+<img src="URL_GAMBAR_SIMBOL_KAMU_DISINI" width="100%"/>
+
+</td>
+<td width="65%" valign="top">
+
 ### ▍PILOT PROFILE // 明日香班
+
+<div align="justify">
 
 Saya adalah seorang **Software Developer** dengan latar belakang di bidang *Sistem Informasi*, saat ini bekerja sebagai *freelancer* sambil aktif mencari peluang baru di dunia teknologi. Perjalanan profesional saya didorong oleh pembelajaran berkelanjutan, pengalaman praktis, dan komitmen kuat untuk menghadirkan sistem yang lengkap dan fungsional untuk kebutuhan dunia nyata.
 
 Seiring waktu, saya telah mengembangkan pengalaman yang solid di ekosistem pengembangan web, dengan minat kuat pada **Front-End Development** — di mana logika bertemu kreativitas dan desain visual. Selain itu, saya juga memperluas keahlian ke pengembangan mobile, dengan fokus membangun aplikasi modern menggunakan **Android Studio** dan **React Native**.
 
 Saat ini, saya bekerja sebagai freelancer, mengembangkan sistem lengkap untuk berbagai klien di kota saya, dari perencanaan dan desain antarmuka hingga implementasi dan penyerahan proyek. Pengalaman langsung ini memperkuat kemampuan problem-solving, fleksibilitas teknis, dan kemampuan memahami kebutuhan bisnis, sambil terus mendorong saya berkembang sebagai developer dan profesional.
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -91,7 +110,10 @@ Saat ini, saya bekerja sebagai freelancer, mengembangkan sistem lengkap untuk be
 
 <div align="center">
 
-## ▍ANGEL ENCOUNTER LOG // CONTRIBUTIONS
+<!-- ====== TEKS BERGAYA PITA / WARP, MENIRU REFERENSI ====== -->
+<img src="https://readme-typing-svg.demolab.com?font=Impact&size=28&pause=1000&color=0A84FF&background=000000&center=true&vCenter=true&width=420&height=60&lines=ANGEL+ENCOUNTER+LOG" alt="My Contributions"/>
+
+## ▍CONTRIBUTIONS
 
 <!-- Ganti username di URL berikut dengan username GitHub kamu -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=react-dark&hide_border=true&bg_color=0d1117&color=0a84ff&line=0a84ff&point=ffffff" width="100%"/>
