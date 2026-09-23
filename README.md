@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <!-- ================= BANNER ================= -->
 <!-- Ganti src di bawah dengan gambar banner tema NERV / Rei Ayanami milikmu -->
-<img src="Assets/bannerMain.jpg" width="100%" height="40%" alt="Banner NEON GENESIS EVANGELION"/>
+<img src="Assets/bannerMain.jpg" width="100%" alt="Banner NEON GENESIS EVANGELION"/>
 
 </div>
 
