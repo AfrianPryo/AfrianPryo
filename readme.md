@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Afrian Pryo Sulistyanno" width="100%" />
+<img src="assets/banner.jpg" alt="Afrian Pryo Sulistyanno" width="100%" height="70%" />
 
 </div>
 
 <br/>
 
+<div align="center">
+
 Siswa PPLG di SMKN 1 Bangsri yang berfokus sebagai UI/UX Designer dan Junior Fullstack Developer. Merancang antarmuka pengguna dan membangun aplikasi web modern dengan React, Laravel, dan MySQL. Terus belajar, senang berkolaborasi dalam tim, dan membuat produk digital yang responsif serta nyaman dipakai.
+
+</div>
 
 <br/>
 
