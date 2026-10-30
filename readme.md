@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>Hi, I'm Afrian👋</h1>
-  <strong>Software & Game Development Student · Front-End Development Focus</strong>
+  Software & Game Development Student · Front-End Development Focus
 </div>
 
 <br/>
