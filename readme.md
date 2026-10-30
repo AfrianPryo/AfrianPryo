@@ -7,12 +7,8 @@
 <br/>
 
 <div align="center">
-
   <h1>Hi, I'm Afrian</h1>
-
   <p><strong>Software & Game Development Student · Front-End Development Focus</strong></p>
-  <p>Building web applications, learning web architecture, and UI/UX design.</p>
-
 </div>
 
 <br/>
@@ -31,7 +27,11 @@
 
 <img src="assets/about-art.jpg" alt="About" width="220" align="right" />
 
-I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development. My main stack is Laravel, PHP, JavaScript, and MySQL, and I'm currently learning Next.js and deepening my front-end skills.
+I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development.
+
+<br/>
+
+ My main stack is Laravel, PHP, JavaScript, and MySQL, and I'm currently learning Next.js and deepening my front-end skills.
 
 <br clear="right"/>
 
