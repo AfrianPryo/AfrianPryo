@@ -33,8 +33,7 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 - **Status:** Siswa PPLG, SMKN 1 Bangsri
 - **Fokus:** UI/UX Design, Web Development
 - **Stack utama:** Laravel, Php, JavaScript, MySQL
-- **Sedang dipelajari:** Mobile App Development, Data Science
-- **Hobi:** Menggambar, membaca, bermain game
+- **Sedang dipelajari:** NextJs, Front-end Development
 
 <br clear="right"/>
 
