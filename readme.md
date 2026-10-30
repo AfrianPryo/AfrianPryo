@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Afrian Pryo Sulistyanno" height="30%" />
+<img src="assets/banner.jpg" alt="Afrian Pryo Sulistyanno" width="100%" />
 
 </div>
 
