@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="assets/title.svg" alt="Hi, I'm Afrian" height="56" />
+  <h1>Hi I'm Afrian👋</h1>
 
   <p><strong>Software & Game Development Student · Front-End Development Focus</strong></p>
   <p>Building web applications, learning web architecture, and UI/UX design.</p>
