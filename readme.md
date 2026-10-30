@@ -7,8 +7,12 @@
 <br/>
 
 <div align="center">
-  <h1>Hi, I'm Afrian👋</h1>
-  Software & Game Development Student · Front-End Development Focus
+
+  <img src="assets/title.svg" alt="Hi, I'm Afrian" height="56" />
+
+  <p><strong>Software & Game Development Student · Front-End Development Focus</strong></p>
+  <p>Building web applications, learning web architecture, and UI/UX design.</p>
+
 </div>
 
 <br/>
@@ -16,6 +20,7 @@
 <div align="center">
 
 <a href="https://github.com/AfrianPryo"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A1A2B?style=for-the-badge&logo=github&logoColor=8FB9E3&labelColor=0A1A2B" alt="GitHub" /></a>
+<a href="https://URL-PORTFOLIO-KAMU"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0A1A2B?style=for-the-badge&logo=googlechrome&logoColor=8FB9E3&labelColor=0A1A2B" alt="Portfolio" /></a>
 <a href="mailto:annosulistyanno@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-0A1A2B?style=for-the-badge&logo=gmail&logoColor=8FB9E3&labelColor=0A1A2B" alt="Gmail" /></a>
 <a href="https://instagram.com/__afffr"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0A1A2B?style=for-the-badge&logo=instagram&logoColor=8FB9E3&labelColor=0A1A2B" alt="Instagram" /></a>
 
@@ -25,13 +30,9 @@
 
 ### About me
 
-<img src="assets/about-art.jpg" alt="About" width="200" align="right" />
+<img src="assets/about-art.jpg" alt="About" width="220" align="right" />
 
-I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development.
-
-<br/>
-
- My main stack is Laravel, PHP, JavaScript, and MySQL, and I'm currently learning Next.js and deepening my front-end skills.
+I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development. My main stack is Laravel, PHP, JavaScript, and MySQL, and I'm currently learning Next.js and deepening my front-end skills.
 
 <br clear="right"/>
 
@@ -62,11 +63,30 @@ I'm a graphic designer and junior developer, currently a Software & Game Develop
 
 <div align="center">
 
-<a href="https://github.com/AfrianPryo/REPO-1"><img src="assets/project-1.svg" width="270" alt="Educational App" /></a>
-&emsp;
-<a href="https://github.com/AfrianPryo/REPO-2"><img src="assets/project-2.svg" width="270" alt="CRUD Dashboard" /></a>
-&emsp;
-<a href="https://github.com/AfrianPryo/REPO-3"><img src="assets/project-3.svg" width="270" alt="Compify E-Commerce" /></a>
+<table width="100%">
+<tr>
+  <td width="32%" valign="top">
+    <strong>Educational App</strong><br/>
+    <sub><code>UI/UX</code> · <code>Fullstack</code></sub><br/><br/>
+    A web-based educational app. I designed the UI/UX, then built the full system as a solo project.<br/><br/>
+    <p align="center"><a href="https://github.com/AfrianPryo/REPO-1"><code>VIEW REPOSITORY</code></a></p>
+  </td>
+  <td width="2%"></td>
+  <td width="32%" valign="top">
+    <strong>CRUD Dashboard</strong><br/>
+    <sub><code>Fullstack</code></sub><br/><br/>
+    A CRUD dashboard system built from scratch as a solo project.<br/><br/>
+    <p align="center"><a href="https://github.com/AfrianPryo/REPO-2"><code>VIEW REPOSITORY</code></a></p>
+  </td>
+  <td width="2%"></td>
+  <td width="32%" valign="top">
+    <strong>Compify E-Commerce</strong><br/>
+    <sub><code>UI/UX</code></sub><br/><br/>
+    UI/UX design for an e-commerce platform, built as a group project. Still in progress.<br/><br/>
+    <p align="center"><a href="https://github.com/AfrianPryo/REPO-3"><code>VIEW REPOSITORY</code></a></p>
+  </td>
+</tr>
+</table>
 
 </div>
 
