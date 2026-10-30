@@ -91,7 +91,7 @@ Juga memakai Visual Studio, Affinity, Cavalry, Framer, dan Canva.
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td valign="top" halign="center">
     <br/>
     <a href="https://github.com/USERNAME-KAMU/REPO-1"><code>Lihat repositori</code></a>
   </td>
@@ -105,20 +105,6 @@ Juga memakai Visual Studio, Affinity, Cavalry, Framer, dan Canva.
   </td>
 </tr>
 </table>
-
-Proyek lain: game sederhana dan Web Portofolio pribadi (desain UI/UX).
-
-### Fokus saat ini
-
-`UI/UX Design` &ensp; `Fullstack Web` &ensp; `Mobile App Basics` &ensp; `Junior Data Scientist (Dicoding)`
-
-### Pendidikan
-
-| Sekolah | Jenjang | Periode |
-| :-- | :-- | :-- |
-| SMKN 1 Bangsri | Sekolah Menengah Kejuruan (PPLG) | 2023 - sekarang |
-| MTSs Mathalibul Huda | Sekolah Menengah Pertama | 2021 - 2023 |
-| SDN 4 Sinanggul | Sekolah Dasar | 2015 - 2021 |
 
 <div align="center">
 
