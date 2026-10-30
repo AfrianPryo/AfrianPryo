@@ -28,7 +28,7 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 
 - **Status:** Siswa PPLG, SMKN 1 Bangsri
 - **Fokus:** UI/UX Design, Web Development
-- **Stack utama:** React, Laravel, MySQL
+- **Stack utama:** Laravel, Php, JavaScript, MySQL
 - **Sedang dipelajari:** Mobile App Development, Data Science
 - **Hobi:** Menggambar, membaca, bermain game
 
@@ -51,9 +51,7 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css,mysql,mongodb,git,github,postman,vscode,arduino,androidstudio&theme=dark" alt="Pengembangan" />
-
-<br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,mongodb,git,github,postman,react,vscode,arduino,androidstudio&theme=dark" alt="Pengembangan" />
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark" alt="Desain" />
 
@@ -94,6 +92,8 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
   </td>
 </tr>
 </table>
+
+<div align="center">
 
 <br/>
 
