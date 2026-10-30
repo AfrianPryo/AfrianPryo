@@ -20,7 +20,7 @@
 <div align="center">
 
 <a href="https://github.com/AfrianPryo"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A1A2B?style=for-the-badge&logo=github&logoColor=8FB9E3&labelColor=0A1A2B" alt="GitHub" /></a>
-<a href="https://URL-PORTFOLIO-KAMU"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0A1A2B?style=for-the-badge&logo=googlechrome&logoColor=8FB9E3&labelColor=0A1A2B" alt="Portfolio" /></a>
+<a href="https://afrianpryo.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0A1A2B?style=for-the-badge&logo=googlechrome&logoColor=8FB9E3&labelColor=0A1A2B" alt="Portfolio" /></a>
 <a href="mailto:annosulistyanno@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-0A1A2B?style=for-the-badge&logo=gmail&logoColor=8FB9E3&labelColor=0A1A2B" alt="Gmail" /></a>
 <a href="https://instagram.com/__afffr"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0A1A2B?style=for-the-badge&logo=instagram&logoColor=8FB9E3&labelColor=0A1A2B" alt="Instagram" /></a>
 
@@ -32,7 +32,11 @@
 
 <img src="assets/about-art.jpg" alt="About" width="220" align="right" />
 
-I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development. My main stack is Laravel, PHP, JavaScript, and MySQL, and I'm currently learning Next.js and deepening my front-end skills.
+I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development.
+
+<br/>
+
+My main stack is Laravel, PHP, JavaScript, and MySQL, and I'm currently learning Next.js and deepening my front-end skills.
 
 <br clear="right"/>
 
@@ -66,24 +70,24 @@ I'm a graphic designer and junior developer, currently a Software & Game Develop
 <table width="100%">
 <tr>
   <td width="32%" valign="top">
+    <strong>Usman Management System</strong><br/>
+    <sub><code>Fullstack</code></sub><br/><br/>
+    A management dashboard system built as a group project with ARG group.<br/><br/>
+    <p align="center"><a href="https://github.com/AfrianPryo/manajemen-usman"><code>VIEW REPOSITORY</code></a></p>
+  </td>
+  <td width="2%"></td>
+    <td width="32%" valign="top">
+    <strong>Compify E-Commerce</strong><br/>
+    <sub><code>UI/UX</code> · <code>Front-end</code></sub><br/><br/>
+    UI/UX design for an e-commerce platform, built as a group project.<br/><br/>
+    <p align="center"><a href="https://github.com/rayyanqatrunada/Compify"><code>VIEW REPOSITORY</code></a></p>
+  </td>
+  <td width="2%"></td>
+    <td width="32%" valign="top">
     <strong>Educational App</strong><br/>
     <sub><code>UI/UX</code> · <code>Fullstack</code></sub><br/><br/>
     A web-based educational app. I designed the UI/UX, then built the full system as a solo project.<br/><br/>
-    <p align="center"><a href="https://github.com/AfrianPryo/REPO-1"><code>VIEW REPOSITORY</code></a></p>
-  </td>
-  <td width="2%"></td>
-  <td width="32%" valign="top">
-    <strong>CRUD Dashboard</strong><br/>
-    <sub><code>Fullstack</code></sub><br/><br/>
-    A CRUD dashboard system built from scratch as a solo project.<br/><br/>
-    <p align="center"><a href="https://github.com/AfrianPryo/REPO-2"><code>VIEW REPOSITORY</code></a></p>
-  </td>
-  <td width="2%"></td>
-  <td width="32%" valign="top">
-    <strong>Compify E-Commerce</strong><br/>
-    <sub><code>UI/UX</code></sub><br/><br/>
-    UI/UX design for an e-commerce platform, built as a group project. Still in progress.<br/><br/>
-    <p align="center"><a href="https://github.com/AfrianPryo/REPO-3"><code>VIEW REPOSITORY</code></a></p>
+    <p align="center"><a href="https://github.com/AfrianPryo/Kalkulator-ilmiah"><code>VIEW REPOSITORY</code></a></p>
   </td>
 </tr>
 </table>
