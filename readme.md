@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Afrian Pryo Sulistyanno" width="100%" />
+<img src="assets/banner.jpg" alt="Afrian Pryo Sulistyanno" width="100%" />
 
 </div>
 
@@ -22,7 +22,7 @@ Siswa PPLG di SMKN 1 Bangsri yang berfokus sebagai UI/UX Designer dan Junior Ful
 
 ### Tentang saya
 
-<img src="assets/about.svg" alt="Hobi" width="260" align="right" />
+<img src="assets/about-art.jpg" alt="about" width="260" align="right" />
 
 Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan desain antarmuka dan membangun sistem web dari awal sampai jadi.
 
