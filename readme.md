@@ -1,155 +1,86 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="JINX banner" width="100%" />
+<img src="assets/banner.svg" alt="Afrian Pryo Sulistyanno" width="100%" />
 
 </div>
 
 <br/>
 
-Transforming raw data into actionable intelligence and digital experiences. Currently deep-diving into Deep Learning, AI development, and creative problem solving. Created to create.
+Siswa PPLG di SMKN 1 Bangsri yang berfokus sebagai UI/UX Designer dan Junior Fullstack Developer. Merancang antarmuka pengguna dan membangun aplikasi web modern dengan React, Laravel, dan MySQL. Terus belajar, senang berkolaborasi dalam tim, dan membuat produk digital yang responsif serta nyaman dipakai.
 
 <br/>
 
 <div align="center">
 
-<a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
-<a href="https://instagram.com/adityaka1ale"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" /></a>
-<a href="https://youtube.com/@CHANNEL-KAMU"><img src="https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube" /></a>
+<a href="mailto:annosulistyanno@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
+<a href="https://instagram.com/__afffr"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" /></a>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td valign="top">
+### Halo, saya Afrian
 
-### Yoo I'm aditya aka jinx
+Graphic Designer & Junior Developer dari Jepara, Jawa Tengah.
 
-Co-Founder Of "Custodia", Author of "Death Chanel" & Aspiring Data Scientist
+Di luar jam sekolah dan proyek, saya menggambar, membaca, dan bermain game.
 
-As for my hobbies, I read a lot of Russian and German literature, I play chess & I write a lot.
+### Yang sedang saya kerjakan
 
-</td>
-<td align="right" width="200">
+- Compify E-Commerce: mendesain UI/UX sebagai proyek grup
+- Web Portofolio pribadi: desain UI/UX
+- Sertifikasi Junior Data Scientist di Dicoding
+- Belajar dasar pengembangan aplikasi mobile
 
-<img src="assets/eye.png" alt="eye" width="200" />
+### Teknologi dan perangkat
 
-</td>
-</tr>
-</table>
+**Pengembangan**
 
----
-
-### `> whoami`
-
-```yaml
-name:       Aditya Karale
-alias:      jinx
-role:       Data Scientist | Machine Learning Engineer
-school:     IIT Madras
-location:   Delulu
-motto:      Created to create.
-```
-
----
-
-### `> currently`
-
-- 🔭 Deep-diving into **Deep Learning** and **AI development**
-- 🌱 Learning: Transformers, LLM fine-tuning, MLOps
-- 🛠️ Building: **Custodia**
-- ✍️ Writing: **Death Chanel**
-- ♟️ Playing: chess, every single day
-- 📚 Reading: Russian & German literature
-
----
-
-### `> tech_stack`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFD400)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD400)
-![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=FFD400)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFD400)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFD400)
-
-**Machine Learning & Data**
-
-![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=FFD400)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD400)
-![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFD400)
-![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=FFD400)
-![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=FFD400)
-![Jupyter](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=FFD400)
-
-**Tools & Deployment**
-
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFD400)
+![Laravel](https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=FFD400)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD400)
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD400)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFD400)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFD400)
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFD400)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=streamlit&logoColor=FFD400)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FFD400)
+![Postman](https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=FFD400)
+![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=FFD400)
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-000000?style=for-the-badge&logo=androidstudio&logoColor=FFD400)
 
-</div>
+**Desain dan visual**
 
----
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=FFD400)
+![Framer](https://img.shields.io/badge/FRAMER-000000?style=for-the-badge&logo=framer&logoColor=FFD400)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-000000?style=for-the-badge&logo=adobephotoshop&logoColor=FFD400)
+![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-000000?style=for-the-badge&logo=adobeillustrator&logoColor=FFD400)
+![After Effects](https://img.shields.io/badge/AFTER_EFFECTS-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=FFD400)
+![Blender](https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=FFD400)
+![Canva](https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=FFD400)
 
-### `> featured_projects`
+Juga memakai VSCode, Visual Studio, Affinity, dan Cavalry.
 
-| Project | Description | Stack |
+### Proyek
+
+| Proyek | Peran | Keterangan | Tahun |
+| :-- | :-- | :-- | :-- |
+| Aplikasi Edukasi | UI/UX Designer | Desain UI/UX aplikasi berbasis web, proyek individu | 2024 - 2025 |
+| Aplikasi Edukasi | Fullstack Developer | Membangun sistem utuh, proyek individu | 2024 - 2025 |
+| Dashboard CRUD | Fullstack Developer | Membangun sistem dashboard CRUD, proyek individu | 2025 |
+| Game sederhana | Developer | Belajar pengembangan game dari jurusan | 2025 - 2026 |
+| Compify E-Commerce | UI/UX Designer | Desain UI/UX e-commerce, proyek grup | 2026 - sekarang |
+| Web Portofolio | UI/UX Designer | Desain UI/UX website portofolio pribadi | 2026 - sekarang |
+
+### Pendidikan
+
+| Sekolah | Jenjang | Periode |
 | :-- | :-- | :-- |
-| **[Custodia](https://github.com/AdiCodexy/REPO-CUSTODIA)** | Deskripsi singkat proyek Custodia. | `Python` `FastAPI` |
-| **[Project Name](https://github.com/AdiCodexy/REPO-2)** | Deskripsi singkat proyek kedua. | `PyTorch` `Pandas` |
-| **[Project Name](https://github.com/AdiCodexy/REPO-3)** | Deskripsi singkat proyek ketiga. | `scikit-learn` `Streamlit` |
+| SMKN 1 Bangsri | Sekolah Menengah Kejuruan (PPLG) | 2023 - sekarang |
+| MTSs Mathalibul Huda | Sekolah Menengah Pertama | 2021 - 2023 |
+| SDN 4 Sinanggul | Sekolah Dasar | 2015 - 2021 |
 
----
+### Hobi
 
-### `> github_stats`
+Menggambar, membaca, dan bermain game.
 
-<div align="center">
+### Kontak
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD400&icon_color=FFD400&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD400&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiCodexy&background=0d1117&ring=FFD400&fire=FFD400&currStreakLabel=FFD400&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=0d1117&color=FFD400&line=FFD400&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
-
-</div>
-
----
-
-### `> writing`
-
-- 📖 **Death Chanel** — buku karya saya. *(tambahkan tautan / sinopsis singkat di sini)*
-- 📝 Menulis esai, cerita, dan catatan tentang data, sastra, dan hal-hal acak lainnya.
-
----
-
-### `> off_the_clock`
-
-- ♟️ **Chess** — [Chess.com / Lichess profile](https://lichess.org/@/USERNAME-KAMU)
-- 📚 **Literature** — Russian & German classics
-- ✍️ **Writing** — hampir setiap hari
-
----
-
-### `> connect`
-
-<div align="center">
-
-<a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/adityakarale7@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD400" alt="Email" /></a>
-<a href="https://instagram.com/adityaka1ale"><img src="https://img.shields.io/badge/@adityaka1ale-000000?style=for-the-badge&logo=instagram&logoColor=FFD400" alt="Instagram" /></a>
-
-<br/><br/>
-
-*"Created to create."*
-
-<img src="https://komarev.com/ghpvc/?username=AdiCodexy&label=PROFILE+VIEWS&color=FFD400&style=for-the-badge&labelColor=000000" alt="Profile views" />
-
-</div>
+Email: [annosulistyanno@gmail.com](mailto:annosulistyanno@gmail.com)
+Instagram: [@\_\_afffr](https://instagram.com/__afffr)
