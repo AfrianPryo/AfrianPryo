@@ -47,12 +47,12 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8FB9E3&icon_color=8FB9E3&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&hide_border=true&bg_color=0d1117&title_color=8FB9E3&text_color=c9d1d9&langs_count=6" alt="Bahasa teratas" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=AfrianPryo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8FB9E3&icon_color=8FB9E3&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrianPryo&layout=compact&hide_border=true&bg_color=0d1117&title_color=8FB9E3&text_color=c9d1d9&langs_count=6" alt="Bahasa teratas" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME-KAMU&background=0d1117&ring=8FB9E3&fire=8FB9E3&currStreakLabel=8FB9E3&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrianPryo&background=0d1117&ring=8FB9E3&fire=8FB9E3&currStreakLabel=8FB9E3&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME-KAMU&bg_color=0d1117&color=c9d1d9&line=8FB9E3&point=ffffff&area=true&area_color=8FB9E3&hide_border=true" alt="Grafik kontribusi" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrianPryo&bg_color=0d1117&color=c9d1d9&line=8FB9E3&point=ffffff&area=true&area_color=8FB9E3&hide_border=true" alt="Grafik kontribusi" width="98%" />
 
 </div>
 
@@ -67,8 +67,6 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark" alt="Desain" />
 
 </div>
-
-Juga memakai Visual Studio, Affinity, Cavalry, Framer, dan Canva.
 
 ### Proyek
 
@@ -91,7 +89,7 @@ Juga memakai Visual Studio, Affinity, Cavalry, Framer, dan Canva.
   </td>
 </tr>
 <tr>
-  <td valign="top" halign="center">
+  <td valign="top">
     <br/>
     <a href="https://github.com/USERNAME-KAMU/REPO-1"><code>Lihat repositori</code></a>
   </td>
