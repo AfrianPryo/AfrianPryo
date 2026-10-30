@@ -53,13 +53,11 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 
 <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css,mysql,mongodb,git,github,postman,vscode,arduino,androidstudio&theme=dark" alt="Pengembangan" />
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark" alt="Desain" />
 
 </div>
-
-Juga memakai Visual Studio, Affinity, Cavalry, Framer, dan Canva.
 
 ### Proyek
 
@@ -96,22 +94,6 @@ Juga memakai Visual Studio, Affinity, Cavalry, Framer, dan Canva.
   </td>
 </tr>
 </table>
-
-Proyek lain: game sederhana dan Web Portofolio pribadi (desain UI/UX).
-
-### Fokus saat ini
-
-`UI/UX Design` &ensp; `Fullstack Web` &ensp; `Mobile App Basics` &ensp; `Junior Data Scientist (Dicoding)`
-
-### Pendidikan
-
-| Sekolah | Jenjang | Periode |
-| :-- | :-- | :-- |
-| SMKN 1 Bangsri | Sekolah Menengah Kejuruan (PPLG) | 2023 - sekarang |
-| MTSs Mathalibul Huda | Sekolah Menengah Pertama | 2021 - 2023 |
-| SDN 4 Sinanggul | Sekolah Dasar | 2015 - 2021 |
-
-<div align="center">
 
 <br/>
 
