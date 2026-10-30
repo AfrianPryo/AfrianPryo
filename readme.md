@@ -30,7 +30,7 @@
 
 ### About me
 
-<img src="assets/about-art.jpg" alt="About" width="220" align="right" />
+<img src="assets/about-art.jpg" alt="About" width="160" align="right" />
 
 I'm a graphic designer and junior developer, currently a Software & Game Development student at SMKN 1 Bangsri. I design user interfaces and build web systems from start to finish, with a focus on UI/UX design and web development.
 
