@@ -12,7 +12,7 @@ Siswa PPLG di SMKN 1 Bangsri yang berfokus sebagai UI/UX Designer dan Junior Ful
 
 <div align="center">
 
-<a href="https://github.com/USERNAME-KAMU"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A1A2B?style=for-the-badge&logo=github&logoColor=8FB9E3&labelColor=0A1A2B" alt="GitHub" /></a>
+<a href="https://github.com/AfrianPryo"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A1A2B?style=for-the-badge&logo=github&logoColor=8FB9E3&labelColor=0A1A2B" alt="GitHub" /></a>
 <a href="mailto:annosulistyanno@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-0A1A2B?style=for-the-badge&logo=gmail&logoColor=8FB9E3&labelColor=0A1A2B" alt="Gmail" /></a>
 <a href="https://instagram.com/__afffr"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0A1A2B?style=for-the-badge&logo=instagram&logoColor=8FB9E3&labelColor=0A1A2B" alt="Instagram" /></a>
 
@@ -62,8 +62,6 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 
 <img src="https://skillicons.dev/icons?i=react,laravel,php,js,html,css,mysql,mongodb,git,github,postman,vscode,arduino,androidstudio&theme=dark" alt="Pengembangan" />
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark" alt="Desain" />
 
 </div>
@@ -91,15 +89,15 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 <tr>
   <td valign="top">
     <br/>
-    <a href="https://github.com/USERNAME-KAMU/REPO-1"><code>Lihat repositori</code></a>
+    <a href="https://github.com/AfrianPryo/REPO-1"><code>Lihat repositori</code></a>
   </td>
   <td valign="top">
     <br/>
-    <a href="https://github.com/USERNAME-KAMU/REPO-2"><code>Lihat repositori</code></a>
+    <a href="https://github.com/AfrianPryo/REPO-2"><code>Lihat repositori</code></a>
   </td>
   <td valign="top">
     <br/>
-    <a href="https://github.com/USERNAME-KAMU/REPO-3"><code>Lihat repositori</code></a>
+    <a href="https://github.com/AfrianPryo/REPO-3"><code>Lihat repositori</code></a>
   </td>
 </tr>
 </table>
@@ -108,6 +106,6 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME-KAMU&label=PROFILE+VIEWS&color=8FB9E3&style=for-the-badge&labelColor=0A1A2B" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AfrianPryo&label=PROFILE+VIEWS&color=8FB9E3&style=for-the-badge&labelColor=0A1A2B" alt="Profile views" />
 
 </div>
