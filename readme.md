@@ -58,40 +58,15 @@ Graphic Designer & Junior Developer dari Jepara, Jawa Tengah. Saya mengerjakan d
 </div>
 
 ### Proyek
-
-<table>
-<tr>
-  <td width="33%" valign="top">
-    <strong>Aplikasi Edukasi</strong><br/>
-    <sub><code>UI/UX</code> · <code>Fullstack</code></sub><br/><br/>
-    Aplikasi berbasis web. Saya mendesain UI/UX-nya lalu membangun sistem utuhnya sebagai proyek individu.
-  </td>
-  <td width="33%" valign="top">
-    <strong>Dashboard CRUD</strong><br/>
-    <sub><code>Fullstack</code></sub><br/><br/>
-    Sistem dashboard CRUD yang dibangun penuh sebagai proyek individu.
-  </td>
-  <td width="33%" valign="top">
-    <strong>Compify E-Commerce</strong><br/>
-    <sub><code>UI/UX</code></sub><br/><br/>
-    Desain UI/UX e-commerce sebagai proyek grup, masih berjalan.
-  </td>
-</tr>
-<tr>
-  <td valign="top">
-    <br/>
-    <a href="https://github.com/AfrianPryo/REPO-1"><code>Lihat repositori</code></a>
-  </td>
-  <td valign="top">
-    <br/>
-    <a href="https://github.com/AfrianPryo/REPO-2"><code>Lihat repositori</code></a>
-  </td>
-  <td valign="top">
-    <br/>
-    <a href="https://github.com/AfrianPryo/REPO-3"><code>Lihat repositori</code></a>
-  </td>
-</tr>
-</table>
+ 
+<div align="center">
+<a href="https://github.com/AfrianPryo/REPO-1"><img src="assets/project-1.svg" width="270" alt="Aplikasi Edukasi" /></a>
+&emsp;
+<a href="https://github.com/AfrianPryo/REPO-2"><img src="assets/project-2.svg" width="270" alt="Dashboard CRUD" /></a>
+&emsp;
+<a href="https://github.com/AfrianPryo/REPO-3"><img src="assets/project-3.svg" width="270" alt="Compify E-Commerce" /></a>
+ 
+</div>
 
 <div align="center">
 
